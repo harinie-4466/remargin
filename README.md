@@ -6,7 +6,7 @@
 
 **A zero-hardware energy intelligence platform for CNC MSME factories in India**
 
-[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/demo-remargin-hackfinix)
+[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=8oTeMZrpctc)
 
 > *"Energy wasted, but never measured — that's making sustainable manufacturing impossible."*
 </div>
