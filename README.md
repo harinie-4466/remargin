@@ -8,10 +8,7 @@
 
 [![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/demo-remargin-hackfinix)
 
-<br/>
-
 > *"Energy wasted, but never measured — that's making sustainable manufacturing impossible."*
-<br/>
 </div>
 
 ---
