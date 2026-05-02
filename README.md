@@ -11,7 +11,6 @@
 <br/>
 
 > *"Energy wasted, but never measured — that's making sustainable manufacturing impossible."*
-
 <br/>
 </div>
 
@@ -137,9 +136,5 @@ Password: (any)
 
 **Amrita Vishwa Vidyapeetham, Coimbatore**
 `sviharinie@gmail.com`
-
-</div>
-
----
 
 </div>
