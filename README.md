@@ -13,11 +13,6 @@
 > *"Energy wasted, but never measured — that's making sustainable manufacturing impossible."*
 
 <br/>
-
-| Institution | Team Lead | Member |
-|:---:|:---:|:---:|:---:|
-| Amrita Vishwa Vidyapeetham, Coimbatore | C.B. Harinie | Pon Gopika P |
-
 </div>
 
 ---
@@ -146,9 +141,5 @@ Password: (any)
 </div>
 
 ---
-
-*Built with ♥ at HackFinix 2025 · Track 03: Sustainability & Green Technologies*
-
-*Amrita Vishwa Vidyapeetham, Coimbatore*
 
 </div>
